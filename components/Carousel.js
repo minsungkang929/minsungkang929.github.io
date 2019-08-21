@@ -16,13 +16,13 @@ export class Carousel extends React.Component {
                 {/* <!-- The slideshow --> */}
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                    <img src="./components/1.jpg" alt="Los Angeles" width="1100" height="500" />
+                    <img src="./components/seneca.jpg"  alt="Seneca ITS" width="1100" height="400" />
                     </div>
                     <div className="carousel-item">
-                    <img src="./components/1.jpg" alt="Chicago" width="1100" height="500" />
+                    <img src="./components/powerplaza.jpg" alt="Powerplaza" width="1100" height="400" />
                     </div>
                     <div className="carousel-item">
-                    <img src="./components/1.jpg" alt="New York" width="1100" height="500" />
+                    <img src="./components/nifco.jpg" alt="Nifco Korea" width="1100" height="400" />
                     </div>
                 </div>
             
